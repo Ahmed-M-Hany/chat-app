@@ -6,5 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-it is available to be used with firebase 
-just clone and run on your phone
+it is available to be used with firebase. just clone and run on your phone
